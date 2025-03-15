@@ -39,7 +39,7 @@ Ensure you have the following installed:
    ```
 3. Run the script:
    ```sh
-   python setup_django.py
+   python Django_Project_Creator.py
    ```
 
 ## Usage
